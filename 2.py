@@ -12,7 +12,7 @@ while loop == True:
 
 #def evenify(aList):
 #    for num in aList:
-#        if num%2 != 0:                 <- but WHY didn't this work?
+#        if num%2 != 0:                 
 #            aList.remove(num)
     
 def evenify(myList):
